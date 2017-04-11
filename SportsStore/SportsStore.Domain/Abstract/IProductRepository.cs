@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SportsStore.Domain.Abstract
 {
-    public interface IProductsRepository
+    public interface IProductRepository
     {
         IQueryable<Product> Products { get; }
     }
