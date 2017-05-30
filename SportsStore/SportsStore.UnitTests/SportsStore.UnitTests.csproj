@@ -92,6 +92,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AdminTests.cs" />
     <Compile Include="CartTests.cs" />
     <Compile Include="ProductTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

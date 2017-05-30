@@ -46,7 +46,7 @@ namespace SportsStore.WebUI.Models
         public string Email { get; set; }
     }
 
-    public class LoginViewModel
+    public class EmailViewModel
     {
         [Required]
         [Display(Name = "Email")]
